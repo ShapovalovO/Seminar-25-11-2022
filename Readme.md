@@ -24,10 +24,12 @@
 ## Ссылки 
 Чтобы создать ссылку, заключите текст ссылки в квадратные скобки (например, [Эту информацю можно найти здесь]), а затем сразу же укажите URL-адрес в круглых скобках (например, (https://www.markdownguide.org/basic-syntax/#links))
 
-Долэно получится вот так: 
-[Эту информацю можно найти здесь](https://www.markdownguide.org/basic-syntax/#links)
+Должно получится вот так: [Эту информацю можно найти здесь](https://www.markdownguide.org/basic-syntax/#links)
 
+## Картинки
+Чтобы добавить изображение, добавьте восклицательный знак ( !), замещающий текст в скобках и путь или URL-адрес ресурса изображения в скобках. При желании вы можете добавить заголовок в кавычках после пути или URL-адреса.
 
+![geekbrains](https://yandex.ru/images/search?text=geekbrains&from=tabbar&pos=1&img_url=http%3A%2F%2Fbegeton.com%2Ffiles%2Fusers-companies%2F120%2F4%2F5%2Fr62PQbTN1BxEEmQmDpkwP4qeYFDVKv5o.jpeg&rpt=simage&lr=4)
 
 
 
