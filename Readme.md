@@ -31,11 +31,15 @@
 
 ![geekbrains](https://yandex.ru/images/search?text=geekbrains&from=tabbar&pos=1&img_url=http%3A%2F%2Fbegeton.com%2Ffiles%2Fusers-companies%2F120%2F4%2F5%2Fr62PQbTN1BxEEmQmDpkwP4qeYFDVKv5o.jpeg&rpt=simage&lr=4)
 
-### Ветки в Git
-
-## разрешение конфликтов в Git
+### Ветки в Git\
 
 ## Слияние веток в Git
+Для того чтобы слить ветки необходимо воспользваться командой *git_merge*.
+Для этого необходимо перейти на ту ветку в которую мы хотим слить другую ветку с помощью команды **git checkout <название ветки>*,
+после этого необходимо воспользоваться командой *git_merge <название ветки>* в этой команде нужно указатьь название ветки которую мы хотим слить.
+
+
+## разрешение конфликтов в Git
 
 ## Удаление веток в Git
 
